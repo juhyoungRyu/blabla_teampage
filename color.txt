@@ -1,0 +1,14 @@
+#2D6C7E : backgroundBlue
+#FBC363 : logoYellow
+#7C7B7A : logoGray
+#515359 : logoBlue
+#E8E8E8 : pageWhite
+#DCDCDC : pageGray
+#BEC1C5 : changeGray
+#275F6F : changeBlue
+#B1B1B1 : comicGray
+#757575 : comicServeGray
+#363636 : comicLetterGray
+#559797 : comicBlue
+#E28242 : comicOrange
+#935398 : comicPurple
