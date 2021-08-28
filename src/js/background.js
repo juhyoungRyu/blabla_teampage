@@ -44,6 +44,5 @@ function returnBg2() {
 
 x1.addEventListener("click", returnBg1);
 x2.addEventListener("click", returnBg2);
-
 box1.addEventListener("click", background1);
 box2.addEventListener("click", background2);

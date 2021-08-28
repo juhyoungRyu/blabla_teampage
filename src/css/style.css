@@ -42,7 +42,7 @@ body {
     position: absolute;
     background: transparent;
     color: rgba(0, 0, 0, 0.63);
-    top: 2200px;
+    top: 2150px;
     left: 20px;
     transition: 0.8s;
 }
@@ -51,7 +51,34 @@ body {
     position: absolute;
     background: transparent;
     color: rgba(0, 0, 0, 0.63);
-    top: 2200px;
-    left: 1850px;
+    top: 2150px;
+    left: 97.3%;
     transition: hidden 0.8s;
+}
+
+
+.chat-box1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    border: none;
+}
+
+
+.chat-box2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    border: none;
+}
+
+
+.chat-box3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    border: none;
 }
