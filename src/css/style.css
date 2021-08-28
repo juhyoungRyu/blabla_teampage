@@ -67,18 +67,24 @@ body {
 
 
 .chat-box2 {
+    position: absolute;
     width: 150px;
     height: 150px;
     border-radius: 50%;
     background-color: white;
     border: none;
+    left: 300px;
 }
 
 
 .chat-box3 {
+    position: absolute;
     width: 150px;
     height: 150px;
     border-radius: 50%;
     background-color: white;
     border: none;
+    left: 500px;
 }
+
+
